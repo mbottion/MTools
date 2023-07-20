@@ -1,4 +1,4 @@
-VERSION=2.6 (Michelin PROD 07/2023)
+VERSION="2.6 (Michelin PROD 07/2023)"
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
 #   Appelé par l'option -T, permet de tester des parties de script
@@ -2849,10 +2849,10 @@ fi
 showVars
 
 case $mode in
-CREATE)         createDG       2>&1 | tee $LOG_FILE ; exitStatus =$? ;;
-DELETE)         deleteStandBy  2>&1 | tee $LOG_FILE ; exitStatus =$? ;;
-TEST)           testUnit       2>&1 | tee $LOG_FILE ; exitStatus =$? ;;
-VERIFICATION)   verificationDG 2>&1 | tee $LOG_FILE ; exitStatus =$? ;;
+CREATE)         createDG       2>&1 | tee $LOG_FILE ; exitStatus=$? ;;
+DELETE)         deleteStandBy  2>&1 | tee $LOG_FILE ; exitStatus=$? ;;
+TEST)           testUnit       2>&1 | tee $LOG_FILE ; exitStatus=$? ;;
+VERIFICATION)   verificationDG 2>&1 | tee $LOG_FILE ; exitStatus=$? ;;
 esac
 
 
