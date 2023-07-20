@@ -1,0 +1,7 @@
+lnx004078.oci.michelin.com;batch Zone ACJ LAT3
+lnx004064.oci.michelin.com;Extra web Zone ACJ LAT3 iSup
+lnx004065.oci.michelin.com;Extra web Zone ACJ LAT3  iSup
+lnx004074.oci.michelin.com;Intra web Zone ACJ LAT3
+lnx004075.oci.michelin.com;Intra web Zone ACJ LAT3
+lnx004083.oci.michelin.com;CFT Zone ACJ LAT3
+

@@ -1,0 +1,9 @@
+lnx004077.oci.michelin.com;batch Zone EUR LAT2
+lnx004062.oci.michelin.com;Extra web Zone EUR LAT2 Isup
+lnx004063.oci.michelin.com;Extra web Zone EUR LAT2 Isup
+lnx004068.oci.michelin.com;Extra web Zone EUR LAT2 iRec
+lnx004069.oci.michelin.com;Extra web Zone EUR LAT2 iRec
+lnx004072.oci.michelin.com;Intra web Zone EUR LAT2
+lnx004073.oci.michelin.com;Intra web Zone EUR LAT2
+lnx004082.oci.michelin.com;CFT Zone EUR LAT2
+
